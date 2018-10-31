@@ -1,0 +1,12 @@
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\bin\Debug\DataAccess.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\bin\Debug\DataAccess.pdb
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\bin\Debug\DataAccess.dll.config
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\ViewModels\obj\Debug\ViewModels.pdb

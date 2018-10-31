@@ -1,0 +1,4 @@
+﻿Hi,
+
+     This is to inform that @name@ of from team @team@ designation SeniorTester is
+	 travelling to @place@.

@@ -1,0 +1,12 @@
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\bin\Debug\Entities.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\bin\Debug\Entities.pdb
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\bin\Debug\DataAccess.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\bin\Debug\EntityFramework.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\bin\Debug\DataAccess.pdb
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\bin\Debug\DataAccess.dll.config
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\bin\Debug\EntityFramework.xml
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\obj\Debug\Entities.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\Entities\obj\Debug\Entities.pdb

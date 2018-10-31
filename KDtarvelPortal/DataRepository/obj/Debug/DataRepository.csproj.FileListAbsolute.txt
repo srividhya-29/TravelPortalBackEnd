@@ -1,0 +1,17 @@
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\DataRepository.dll.config
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\DataRepository.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\DataRepository.pdb
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\DataAccess.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\EntityFramework.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\DataAccess.pdb
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\DataAccess.dll.config
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\EntityFramework.xml
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\obj\Debug\DataRepository.csprojAssemblyReference.cache
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\obj\Debug\DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\obj\Debug\DataRepository.csproj.CopyComplete
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\obj\Debug\DataRepository.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\obj\Debug\DataRepository.pdb
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\BusinessModels.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataRepository\bin\Debug\BusinessModels.pdb

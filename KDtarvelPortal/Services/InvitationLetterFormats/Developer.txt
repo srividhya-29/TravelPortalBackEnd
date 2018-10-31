@@ -1,0 +1,8 @@
+﻿Hi,
+
+     This is to inform that Employee: @name@ belonging to project @project@ is travelling to
+	 @place@ from @startdate@ to @enddate@ for our client @client@.
+
+Regards,
+@manager@.
+Manager

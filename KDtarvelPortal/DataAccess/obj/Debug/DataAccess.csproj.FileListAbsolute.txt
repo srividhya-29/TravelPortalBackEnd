@@ -1,0 +1,16 @@
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\obj\Debug\DataAccess.Migrations.First.resources
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\obj\Debug\DataAccess.Migrations.First1.resources
+C:\Users\srivig\source\repos\C#\KDtarvelPortal\DataAccess\obj\Debug\DataAccess.Migrations.First2.resources
